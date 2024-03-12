@@ -1,0 +1,8 @@
+{  
+   "basePackage":"co.com.rios.microservice.resolveEnigmaApi",
+   "configPackage":"co.com.rios.microservice.resolveEnigmaApi.config",
+   "apiPackage":"co.com.rios.microservice.resolveEnigmaApi.api",
+   "modelPackage":"co.com.rios.microservice.resolveEnigmaApi.model",
+   "groupId":"co.com.rios.service.resolveEnigmaApi",
+   "artifactId":"resolve-enigma-api"
+}
